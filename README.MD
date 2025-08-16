@@ -19,5 +19,5 @@ Perfect for practicing **Python basics** and **Git/GitHub workflow**.
 ## 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cli_todo.git
+git clone https://github.com/mehrshad-naderi/cli_todo.git
 cd cli_todo
